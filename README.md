@@ -51,7 +51,7 @@ __Category name (Like DSP, Automation, Robotics, and...)__
 
 ## Block Diagram
 
-![SystemDesign](https://github.com/mend0z0)
+![SystemDesign](https://github.com/mend0z0/Scoreboard/blob/main/Document/Block%20Diagrams/_FBD_SYS_Scoreboard_v1.0.svg)
 
 ## Screenshots
 
