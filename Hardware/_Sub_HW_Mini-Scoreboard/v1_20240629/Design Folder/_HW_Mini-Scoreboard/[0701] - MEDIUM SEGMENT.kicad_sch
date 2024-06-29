@@ -1,0 +1,2537 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6e5d4a89-4da0-4624-8d7f-eb926c2967c9")
+	(paper "C")
+	(lib_symbols
+		(symbol "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 3.556 4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "RED_2V_20mA"
+				(at 3.81 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+				(at 3.81 16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+				(at 3.556 9.144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+				(at 3.556 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "LED-0805"
+				(at 3.81 35.306 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+				(at 3.81 19.558 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Harvatek Corporation"
+				(at 3.81 24.384 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+				(at 3.81 22.098 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "Digikey"
+				(at 3.81 26.924 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+				(at 3.556 11.684 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 3.81 29.972 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECK" "PCB (N/A)"
+				(at 3.81 32.512 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "ki_keywords" "LED_RED"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "DIODE_LED_RED_2V_20mA_624nm_LED-0805_0_1"
+				(polyline
+					(pts
+						(xy 5.588 1.905) (xy 6.604 2.794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.239 1.905) (xy 8.001 2.667)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -1.27) (xy 7.62 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 5.08 -1.27) (xy 7.62 0) (xy 5.08 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.223 3.302) (xy 7.112 2.413) (xy 7.366 3.556) (xy 6.223 3.302)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 3.175) (xy 8.509 2.286) (xy 8.763 3.429) (xy 7.62 3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "DIODE_LED_RED_2V_20mA_624nm_LED-0805_1_1"
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "_SCHLIB_Mini-Scoreboard:RES_62R_1/4W_1%_R0805"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 3.556 4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "62R_1/4W_1%"
+				(at 3.81 6.604 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+				(at 3.81 16.764 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.koaspeer.com/pdfs/RK73H.pdf"
+				(at 3.556 9.144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "62 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+				(at 3.556 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "R0805"
+				(at 3.81 35.306 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Part Number (Manufacturer)" "RK73H2ATTD62R0F"
+				(at 3.81 19.558 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "KOA Speer Electronics, Inc."
+				(at 3.81 24.384 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number (Vendor)" "2019-RK73H2ATTD62R0FTR-ND"
+				(at 3.81 22.098 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor" "Digikey"
+				(at 3.81 26.924 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link" "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73H2ATTD62R0F/10234567"
+				(at 3.556 11.684 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 3.81 29.972 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECK" "PCB (N/A)"
+				(at 3.81 32.512 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "ki_keywords" "62 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "RES_62R_1/4W_1%_R0805_0_0"
+				(polyline
+					(pts
+						(xy 3.81 0) (xy 4.445 1.27) (xy 5.715 -1.27) (xy 6.985 1.27) (xy 8.255 -1.27) (xy 8.89 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RES_62R_1/4W_1%_R0805_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 266.7 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48fd7ba6-6e5e-492c-bf5c-1ade80b631c0")
+	)
+	(junction
+		(at 266.7 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59fb9028-44b6-426b-ac26-c08c9dad9b63")
+	)
+	(junction
+		(at 292.1 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ed40294-293f-4b5f-a047-bc99ae28666e")
+	)
+	(junction
+		(at 241.3 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "833c12ba-3848-41c6-8ef0-18e8100cdc30")
+	)
+	(junction
+		(at 266.7 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3b300f8-70cc-4a06-9f02-9f971c84e007")
+	)
+	(wire
+		(pts
+			(xy 292.1 209.55) (xy 266.7 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02776ac6-0c27-48da-a332-77e7ccc7e1fe")
+	)
+	(wire
+		(pts
+			(xy 228.6 139.7) (xy 266.7 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15488d7a-40da-4385-bae4-06af91f99f42")
+	)
+	(wire
+		(pts
+			(xy 266.7 152.4) (xy 292.1 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "195d717e-edbf-4e5a-91d2-ffb4b3538b4a")
+	)
+	(wire
+		(pts
+			(xy 241.3 184.15) (xy 266.7 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20f4b3db-57a7-4551-82d8-c7b2a7478392")
+	)
+	(wire
+		(pts
+			(xy 292.1 203.2) (xy 292.1 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "241746cd-a0fb-4ee9-9a34-54235c1414f6")
+	)
+	(wire
+		(pts
+			(xy 266.7 184.15) (xy 266.7 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31d18833-ce51-4955-a088-33ef5e402443")
+	)
+	(wire
+		(pts
+			(xy 241.3 152.4) (xy 266.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36859cc4-086b-47e9-ade2-c5603915ac85")
+	)
+	(wire
+		(pts
+			(xy 266.7 177.8) (xy 266.7 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a541b69-f9d7-4742-8b73-65a2807b9349")
+	)
+	(wire
+		(pts
+			(xy 266.7 209.55) (xy 241.3 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49a3d9c0-f7ba-46be-8155-a8c6a718a9cb")
+	)
+	(wire
+		(pts
+			(xy 266.7 203.2) (xy 266.7 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5da88cd3-3901-40fd-9a31-72ef36d50bcd")
+	)
+	(wire
+		(pts
+			(xy 228.6 228.6) (xy 266.7 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eae8525-44be-498a-af76-dc6193a4bba3")
+	)
+	(wire
+		(pts
+			(xy 292.1 184.15) (xy 292.1 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "676bd56f-84d3-44f2-bb20-95b138d62a6b")
+	)
+	(wire
+		(pts
+			(xy 266.7 184.15) (xy 292.1 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a790704-64bd-491f-ab85-74cd6bdccbed")
+	)
+	(wire
+		(pts
+			(xy 266.7 213.36) (xy 266.7 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78b9541c-27e8-4cdf-8a77-c0f49361cccb")
+	)
+	(wire
+		(pts
+			(xy 292.1 177.8) (xy 292.1 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "958a9a71-bdf1-4fd2-b283-b380553bdb76")
+	)
+	(wire
+		(pts
+			(xy 241.3 177.8) (xy 241.3 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6a8b4dd-063d-4395-994b-f32a53bc2539")
+	)
+	(wire
+		(pts
+			(xy 292.1 152.4) (xy 292.1 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8cdf8ef-8e8d-4897-ad1b-1f74f3d8cd9b")
+	)
+	(wire
+		(pts
+			(xy 266.7 139.7) (xy 266.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e55dba09-eb5e-4e27-b7f6-73d5ffbf32fb")
+	)
+	(wire
+		(pts
+			(xy 241.3 165.1) (xy 241.3 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b18370-a01e-4513-a219-347df54ba009")
+	)
+	(wire
+		(pts
+			(xy 266.7 152.4) (xy 266.7 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea5163e7-e5e1-4cd4-aaf8-14d4f458f0eb")
+	)
+	(wire
+		(pts
+			(xy 266.7 228.6) (xy 266.7 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea6eeb13-0d1c-4e7a-9343-2b9fd965d08b")
+	)
+	(wire
+		(pts
+			(xy 241.3 203.2) (xy 241.3 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec5c8341-1e12-40e6-9dd4-a18fe6557fb1")
+	)
+	(wire
+		(pts
+			(xy 241.3 190.5) (xy 241.3 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed4ed16e-b271-4bd2-9b68-99a592eef987")
+	)
+	(hierarchical_label "ANODE"
+		(shape input)
+		(at 228.6 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4c7584b0-03ee-48cb-98b4-804b1c4cbe8e")
+	)
+	(hierarchical_label "CATHODE"
+		(shape output)
+		(at 228.6 228.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d9392692-8cce-4651-9590-5c1c92016c78")
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 241.3 165.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c5def50-7264-40c2-99c5-da192dc60fe8")
+		(property "Reference" "D2901"
+			(at 246.38 166.9414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 246.38 169.4814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 258.064 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 250.444 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 255.27 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 246.38 172.0214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 260.858 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 265.684 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 263.398 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 268.224 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 252.984 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 246.38 174.5614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 246.38 177.1014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "3ed417cb-2f50-4d56-aeaa-d3133604e8b2")
+		)
+		(pin "1"
+			(uuid "aa9499cc-1102-47d0-9b96-4246fbfe27ad")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2901")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2801")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3201")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3101")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3001")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2701")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13901")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13701")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14101")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14201")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14001")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13801")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 241.3 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46cb485d-4084-42d9-80e7-465d9c30268b")
+		(property "Reference" "D2902"
+			(at 246.38 192.3414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 246.38 194.8814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 258.064 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 250.444 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 255.27 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 246.38 197.4214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 260.858 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 265.684 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 263.398 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 268.224 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 252.984 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 246.38 199.9614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 246.38 202.5014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "328de82e-a2ef-43d0-aedc-23b7a3330c3f")
+		)
+		(pin "1"
+			(uuid "de9080ce-119f-4329-aeb1-b64b0a844d6f")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2902")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3302")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D2303")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2802")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3502")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3202")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3602")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3102")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3402")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3002")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2402")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2602")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2502")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2702")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13902")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14302")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13602")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13702")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14602")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14102")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14502")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14202")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14402")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14002")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13402")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13302")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13502")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13802")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 266.7 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49121a4d-ce82-4047-8cff-5c33be447bb7")
+		(property "Reference" "D2905"
+			(at 271.78 192.3414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 271.78 194.8814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 283.464 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 275.844 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 280.67 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 271.78 197.4214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 286.258 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 291.084 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 288.798 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 293.624 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 278.384 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 271.78 199.9614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 271.78 202.5014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "2485ec66-eb6a-4ff9-a4e9-6c559f9648f4")
+		)
+		(pin "1"
+			(uuid "0416cb2d-96ad-40e8-ab92-b6dd4da14d0e")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2905")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3305")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D2304")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2805")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3505")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3205")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3605")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3105")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3405")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3005")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2405")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2605")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2505")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2705")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13905")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14305")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13605")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13705")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14605")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14105")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14505")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14205")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14405")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14005")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13405")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13305")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13505")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13805")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 292.1 190.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6479c7da-818d-43c4-9710-a66b2d326223")
+		(property "Reference" "D2906"
+			(at 297.18 192.3414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 297.18 194.8814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 308.864 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 301.244 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 306.07 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 297.18 197.4214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 311.658 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 316.484 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 314.198 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 319.024 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 303.784 194.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 297.18 199.9614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 297.18 202.5014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "7298a70d-5335-4759-b90d-02ad019cf781")
+		)
+		(pin "1"
+			(uuid "e20e7ff1-60b4-46ad-9e54-11ba842e4741")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2906")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3306")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D2305")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2806")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3506")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3206")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3606")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3106")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3406")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3006")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2406")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2606")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2506")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2706")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13906")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14306")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13606")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13706")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14606")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14106")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14506")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14206")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14406")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14006")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13406")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13306")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13506")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13806")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 292.1 165.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d48cd0bc-99c2-4cdc-a715-bfa7c8afed29")
+		(property "Reference" "D2903"
+			(at 297.18 166.9414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 297.18 169.4814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 308.864 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 301.244 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 306.07 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 297.18 172.0214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 311.658 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 316.484 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 314.198 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 319.024 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 303.784 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 297.18 174.5614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 297.18 177.1014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "77917197-16fc-4ac7-a66d-b9a6faebad40")
+		)
+		(pin "1"
+			(uuid "80a60ef0-d899-46ea-ba80-f466e628464e")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2903")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3303")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D2301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2803")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3503")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3203")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3603")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3103")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3403")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3003")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2403")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2603")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2503")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2703")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13903")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14303")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13603")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13703")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14603")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14103")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14503")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14203")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14403")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14003")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13403")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13303")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13503")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13803")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:DIODE_LED_RED_2V_20mA_624nm_LED-0805")
+		(at 266.7 165.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6b27cac-0814-4a2e-b3a1-1b497ff47143")
+		(property "Reference" "D2904"
+			(at 271.78 166.9414 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RED_2V_20mA"
+			(at 271.78 169.4814 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 283.464 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3750/B1701USD-20D000114U1930.pdf"
+			(at 275.844 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Red 624nm LED Indication - Discrete 2V 0805 (2012 Metric)"
+			(at 280.67 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED-0805"
+			(at 271.78 172.0214 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "B1701USD-20D000114U1930"
+			(at 286.258 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 291.084 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "3147-B1701USD-20D000114U1930TR-ND"
+			(at 288.798 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 293.624 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/harvatek-corporation/B1701USD-20D000114U1930/16671746"
+			(at 278.384 168.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 271.78 174.5614 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 271.78 177.1014 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "21c68e62-3ada-432c-804a-39b6cdb8352e")
+		)
+		(pin "1"
+			(uuid "2c736215-a352-4e2e-bf4a-0644b49f7bf7")
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D2904")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D3304")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D2302")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D2804")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D3504")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D3204")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D3604")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D3104")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D3404")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D3004")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D2404")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D2604")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D2504")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D2704")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "D13904")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "D14304")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "D13604")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "D13704")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "D14604")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "D14104")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "D14504")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "D14204")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "D14404")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "D14004")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "D13404")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "D13304")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "D13504")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "D13804")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:RES_62R_1/4W_1%_R0805")
+		(at 266.7 213.36 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef1bf64a-ac75-4024-a057-62291b908690")
+		(property "Reference" "R2901"
+			(at 269.24 214.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "62R_1/4W_1%"
+			(at 269.24 217.1699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 283.464 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/RK73H.pdf"
+			(at 275.844 216.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "62 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"
+			(at 280.67 216.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "R0805"
+			(at 269.24 219.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Part Number (Manufacturer)" "RK73H2ATTD62R0F"
+			(at 286.258 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KOA Speer Electronics, Inc."
+			(at 291.084 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "2019-RK73H2ATTD62R0FTR-ND"
+			(at 288.798 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 293.624 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link" "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73H2ATTD62R0F/10234567"
+			(at 278.384 216.916 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 269.24 222.2499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 269.24 224.7899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "c5432c55-9739-404a-885b-ca1d3cba7e6e")
+		)
+		(pin "2"
+			(uuid "682741f1-9f9e-4d5a-b36d-8711f5c05f74")
+		)
+		(instances
+			(project ""
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "R2901")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "R3301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "R2301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "R2801")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "R3501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "R3201")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "R3601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "R3101")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "R3401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "R3001")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "R2401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "R2601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "R2501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/a0c0854b-9f50-4956-a00c-a20f715ed118/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "R2701")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/24fc8d95-5242-4574-a93e-b73c401127be"
+					(reference "R13901")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/3b0fe059-4498-4095-bb13-674b95f9650d"
+					(reference "R14301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8"
+					(reference "R13601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/6e5687c4-2315-47ef-b718-d499b889819f"
+					(reference "R13701")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/80504ec8-c173-4d18-acb7-3045bd7dd363"
+					(reference "R14601")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/99d103f9-f0f8-416f-92b6-438e4f549342"
+					(reference "R14101")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/b8feac52-e566-4c93-b6e8-ca2284cd2607"
+					(reference "R14501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27"
+					(reference "R14201")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/cb177fa9-b4f0-48f8-9817-47862fac96e8"
+					(reference "R14401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/d4734562-3e23-4f33-af83-060e64e10491"
+					(reference "R14001")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e8b6deea-987d-40cc-b4de-d0cf118c981d"
+					(reference "R13401")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15"
+					(reference "R13301")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/ed125f1e-e87f-4d19-a6b7-7b334e9093e4"
+					(reference "R13501")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/ab14e36f-d6f5-4615-ad8e-da8358b6603d/fe89f150-94d1-446d-a7f9-ba055b69383f/f3fb2eef-c6be-4fd2-94fa-7febb0dca673"
+					(reference "R13801")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_LIB_Mini-Scoreboard")(type "KiCad")(uri "${KIPRJMOD}/_LIB_Mini-Scoreboard.kicad_sym")(options "")(descr ""))
+  (lib (name "_SCHLIB_Mini-Scoreboard")(type "KiCad")(uri "${KIPRJMOD}/_SCHLIB_Mini-Scoreboard.kicad_sym")(options "")(descr ""))
+)
