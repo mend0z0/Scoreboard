@@ -1,4 +1,4 @@
-23568257464297236
+23569977144487896
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96284,6 +96284,13 @@ CUI_PJ-002A
 0
 3
 3
+_PCBLIB_Mini-Scoreboard
+Mend0z0_Logo
+
+
+0
+0
+0
 _PCBLIB_Mini-Scoreboard
 QFN50P500X500X90-33N
 

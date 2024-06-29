@@ -1714,6 +1714,44 @@
 		)
 	)
 	(sheet
+		(at 177.8 118.11)
+		(size 63.5 6.35)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a488bf35-cdb4-46ed-a7ab-6b6c661f02a0")
+		(property "Sheetname" "MECHANICAL PARTS"
+			(at 177.8 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "[12] - MECHANICAL PARTS.kicad_sch"
+			(at 177.8 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "_HW_Mini-Scoreboard"
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64"
+					(page "246")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 63.5 116.84)
 		(size 63.5 7.62)
 		(fields_autoplaced yes)

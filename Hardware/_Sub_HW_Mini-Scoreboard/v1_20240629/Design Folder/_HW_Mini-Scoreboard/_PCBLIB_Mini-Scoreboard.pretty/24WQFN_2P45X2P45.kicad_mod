@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "TCA9535RTWR ")
 	(property "Reference" "REF**"
-		(at 0 0 0)
+		(at 0.254 -5.08 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "a1c44acd-90d5-46a8-84d6-a097f7fb9cae")
@@ -2297,13 +2297,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "8fe9bfc6-1396-46fc-84c9-82d8ef935e13")
 	)
-	(pad "25" smd rect
-		(at 0 0)
-		(size 2.45 2.45)
-		(layers "F.Cu")
-		(uuid "7b6583fc-60dd-4fab-b38f-fd7e9c161fc6")
-	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at -0.7874 -0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2311,7 +2305,7 @@
 		(remove_unused_layers no)
 		(uuid "638090a8-1a20-4fef-99ad-40b875588ab1")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at -0.7874 0)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2319,7 +2313,7 @@
 		(remove_unused_layers no)
 		(uuid "a084a763-67a2-468e-9d75-c57d7ebf3672")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at -0.7874 0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2327,7 +2321,7 @@
 		(remove_unused_layers no)
 		(uuid "68bcb480-17d8-4a4a-bf24-a69664a5e207")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at 0 -0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2335,7 +2329,7 @@
 		(remove_unused_layers no)
 		(uuid "42f4d059-f068-469e-ac46-c81a641731c9")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at 0 0)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2343,7 +2337,13 @@
 		(remove_unused_layers no)
 		(uuid "8ba7a978-a368-4f7e-a57a-89b4055648f2")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" smd rect
+		(at 0 0)
+		(size 2.45 2.45)
+		(layers "F.Cu")
+		(uuid "7b6583fc-60dd-4fab-b38f-fd7e9c161fc6")
+	)
+	(pad "25" thru_hole circle
 		(at 0 0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2351,7 +2351,7 @@
 		(remove_unused_layers no)
 		(uuid "cdb18a69-ee08-455b-b8f4-88f8e91b245a")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at 0.7874 -0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2359,7 +2359,7 @@
 		(remove_unused_layers no)
 		(uuid "8814be43-243a-45f9-aea2-cc8301e462b3")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at 0.7874 0)
 		(size 0.508 0.508)
 		(drill 0.254)
@@ -2367,7 +2367,7 @@
 		(remove_unused_layers no)
 		(uuid "53356f5e-30eb-4b28-8d85-c016b321f673")
 	)
-	(pad "V" thru_hole circle
+	(pad "25" thru_hole circle
 		(at 0.7874 0.7874)
 		(size 0.508 0.508)
 		(drill 0.254)

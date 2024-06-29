@@ -4527,7 +4527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14a2843a-4cf4-4bbf-a8fa-ceaae474b121")
-		(property "Reference" "#PWR0803"
+		(property "Reference" "#PWR0802"
 			(at 228.6 247.65 0)
 			(effects
 				(font
@@ -4577,7 +4577,7 @@
 		(instances
 			(project "_HW_Mini-Scoreboard"
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/13a7923c-aadf-406b-b100-178504e61a7c"
-					(reference "#PWR0803")
+					(reference "#PWR0802")
 					(unit 1)
 				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10f03a12-823a-4580-bb31-df9e31f2400a"
@@ -4759,7 +4759,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d9cfe32-9f67-4227-86c2-b606f17629ad")
-		(property "Reference" "#PWR08103"
+		(property "Reference" "#PWR0803"
 			(at 419.1 114.3 0)
 			(effects
 				(font
@@ -4807,7 +4807,11 @@
 			(uuid "49faee1d-ecac-4663-97c7-52ac34517b55")
 		)
 		(instances
-			(project "_HW_Mini-Scoreboard"
+			(project ""
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/13a7923c-aadf-406b-b100-178504e61a7c"
+					(reference "#PWR0803")
+					(unit 1)
+				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10f03a12-823a-4580-bb31-df9e31f2400a"
 					(reference "#PWR023103")
 					(unit 1)
@@ -5133,7 +5137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9703e823-50e8-439d-8f9d-13d8e4392a7d")
-		(property "Reference" "#PWR0802"
+		(property "Reference" "#PWR0801"
 			(at 175.26 220.98 0)
 			(effects
 				(font
@@ -5184,7 +5188,7 @@
 		(instances
 			(project "_HW_Mini-Scoreboard"
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/13a7923c-aadf-406b-b100-178504e61a7c"
-					(reference "#PWR0802")
+					(reference "#PWR0801")
 					(unit 1)
 				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10f03a12-823a-4580-bb31-df9e31f2400a"

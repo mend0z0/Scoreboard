@@ -1536,7 +1536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "495a51b0-1bb5-4f81-a639-ea0a2041080a")
-		(property "Reference" "#PWR018103"
+		(property "Reference" "#PWR018102"
 			(at 266.7 219.71 0)
 			(effects
 				(font
@@ -1586,7 +1586,7 @@
 		(instances
 			(project "_HW_Mini-Scoreboard"
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/e8df286b-44e1-41ee-b656-80cc2de69c59"
-					(reference "#PWR018103")
+					(reference "#PWR018102")
 					(unit 1)
 				)
 			)
@@ -1602,7 +1602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6539ca17-d34c-4406-a1cf-142ca44153e3")
-		(property "Reference" "#PWR018102"
+		(property "Reference" "#PWR018103"
 			(at 275.59 177.8 0)
 			(effects
 				(font
@@ -1653,7 +1653,7 @@
 		(instances
 			(project ""
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/e8df286b-44e1-41ee-b656-80cc2de69c59"
-					(reference "#PWR018102")
+					(reference "#PWR018103")
 					(unit 1)
 				)
 			)
