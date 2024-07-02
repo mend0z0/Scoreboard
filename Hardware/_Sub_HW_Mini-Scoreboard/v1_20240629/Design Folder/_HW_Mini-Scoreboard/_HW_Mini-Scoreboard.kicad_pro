@@ -1571,6 +1571,66 @@
     [
       "a488bf35-cdb4-46ed-a7ab-6b6c661f02a0",
       "MECHANICAL PARTS"
+    ],
+    [
+      "d8abc72e-5085-47fd-a87a-7b2855cd5fa7",
+      "MEDIUM 7SEGMENT2"
+    ],
+    [
+      "24fc8d95-5242-4574-a93e-b73c401127be",
+      "MEDIUM SEGMENT6"
+    ],
+    [
+      "6e5687c4-2315-47ef-b718-d499b889819f",
+      "MEDIUM SEGMENT5"
+    ],
+    [
+      "e9c4fa6f-f7b4-4d84-9484-e3e8ca54bf15",
+      "MEDIUM SEGMENT3"
+    ],
+    [
+      "f3fb2eef-c6be-4fd2-94fa-7febb0dca673",
+      "MEDIUM SEGMENT4"
+    ],
+    [
+      "5bd6089d-29fa-4b1a-995a-b7bb2ee25ef8",
+      "MEDIUM SEGMENT"
+    ],
+    [
+      "e8b6deea-987d-40cc-b4de-d0cf118c981d",
+      "MEDIUM SEGMENT1"
+    ],
+    [
+      "ed125f1e-e87f-4d19-a6b7-7b334e9093e4",
+      "MEDIUM SEGMENT2"
+    ],
+    [
+      "3b0fe059-4498-4095-bb13-674b95f9650d",
+      "MEDIUM SEGMENT10"
+    ],
+    [
+      "99d103f9-f0f8-416f-92b6-438e4f549342",
+      "MEDIUM SEGMENT9"
+    ],
+    [
+      "cac8d5dc-a4d8-487c-b7a8-9b2bc1ac4b27",
+      "MEDIUM SEGMENT8"
+    ],
+    [
+      "d4734562-3e23-4f33-af83-060e64e10491",
+      "MEDIUM SEGMENT7"
+    ],
+    [
+      "80504ec8-c173-4d18-acb7-3045bd7dd363",
+      "MEDIUM SEGMENT12"
+    ],
+    [
+      "b8feac52-e566-4c93-b6e8-ca2284cd2607",
+      "MEDIUM SEGMENT13"
+    ],
+    [
+      "cb177fa9-b4f0-48f8-9817-47862fac96e8",
+      "MEDIUM SEGMENT11"
     ]
   ],
   "text_variables": {}
