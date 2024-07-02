@@ -3755,10 +3755,6 @@
 		)
 		(instances
 			(project ""
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "U601")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "U18301")
 					(unit 1)
@@ -3919,10 +3915,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "R604")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "R18304")
 					(unit 1)
@@ -4083,10 +4075,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "R602")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "R18302")
 					(unit 1)
@@ -4247,10 +4235,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "R603")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "R18303")
 					(unit 1)
@@ -4417,10 +4401,6 @@
 		)
 		(instances
 			(project ""
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "C601")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "C18301")
 					(unit 1)
@@ -4504,10 +4484,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "#PWR0601")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "#PWR018301")
 					(unit 1)
@@ -4674,10 +4650,6 @@
 		)
 		(instances
 			(project ""
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "C602")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "C18302")
 					(unit 1)
@@ -4838,10 +4810,6 @@
 		)
 		(instances
 			(project ""
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "R601")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "R18301")
 					(unit 1)
@@ -4924,10 +4892,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "#PWR0602")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "#PWR018302")
 					(unit 1)
@@ -5010,10 +4974,6 @@
 		)
 		(instances
 			(project ""
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(reference "#PWR0603")
-					(unit 1)
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e/10206822-a149-4330-8f9a-a8c360483cf0"
 					(reference "#PWR018303")
 					(unit 1)
@@ -5089,9 +5049,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "18")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "61")
 				)
@@ -5162,9 +5119,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "11")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "57")
 				)
@@ -5235,9 +5189,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "14")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "52")
 				)
@@ -5308,9 +5259,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "15")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "55")
 				)
@@ -5381,9 +5329,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "10")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "56")
 				)
@@ -5454,9 +5399,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "13")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "53")
 				)
@@ -5527,9 +5469,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "17")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "60")
 				)
@@ -5600,9 +5539,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "22")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "64")
 				)
@@ -5673,9 +5609,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "21")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "63")
 				)
@@ -5746,9 +5679,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "19")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "65")
 				)
@@ -5819,9 +5749,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "12")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "54")
 				)
@@ -5892,9 +5819,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "20")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "62")
 				)
@@ -5965,9 +5889,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "16")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "59")
 				)
@@ -6038,9 +5959,6 @@
 		)
 		(instances
 			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/4c68f6d5-173d-41d7-91cf-429cbb7bab02"
-					(page "9")
-				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4/d5c898e7-40b5-447b-96a3-625890a17a59"
 					(page "58")
 				)
