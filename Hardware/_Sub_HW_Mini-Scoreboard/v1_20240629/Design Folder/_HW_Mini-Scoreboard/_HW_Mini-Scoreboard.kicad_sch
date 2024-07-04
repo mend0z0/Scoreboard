@@ -1638,44 +1638,6 @@
 		)
 	)
 	(sheet
-		(at 63.5 219.71)
-		(size 63.5 6.35)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "d7949e1f-9227-4000-9c18-50817964fa3e")
-		(property "Sheetname" "RS485 DRIVER"
-			(at 63.5 218.9984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "[10] - RS485 DRIVER.kicad_sch"
-			(at 63.5 226.6446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64"
-					(page "130")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 177.8 105.41)
 		(size 63.5 6.35)
 		(fields_autoplaced yes)

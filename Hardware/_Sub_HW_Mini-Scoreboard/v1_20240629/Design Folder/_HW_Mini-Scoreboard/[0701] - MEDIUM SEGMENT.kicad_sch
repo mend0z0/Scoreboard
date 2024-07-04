@@ -624,7 +624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c5def50-7264-40c2-99c5-da192dc60fe8")
-		(property "Reference" "D2901"
+		(property "Reference" "D24801"
 			(at 246.38 166.9414 90)
 			(effects
 				(font
@@ -882,7 +882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6b27cac-0814-4a2e-b3a1-1b497ff47143")
-		(property "Reference" "D2902"
+		(property "Reference" "D24802"
 			(at 271.78 166.9414 90)
 			(effects
 				(font

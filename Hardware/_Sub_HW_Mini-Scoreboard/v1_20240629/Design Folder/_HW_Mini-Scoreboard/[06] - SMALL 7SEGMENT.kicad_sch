@@ -3558,7 +3558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b895305-12cf-4003-a18f-3dfeb38b6e80")
-		(property "Reference" "U601"
+		(property "Reference" "U18301"
 			(at 254 181.61 0)
 			(effects
 				(font
@@ -3787,7 +3787,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d2568ff-c088-4d6c-8772-2a3eea4ba14f")
-		(property "Reference" "R604"
+		(property "Reference" "R18304"
 			(at 205.486 218.694 0)
 			(effects
 				(font
@@ -3947,7 +3947,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5093b508-8f2c-49fb-99d3-890876b24651")
-		(property "Reference" "R602"
+		(property "Reference" "R18302"
 			(at 205.486 189.484 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5aa80016-32c3-42f9-8a64-b8ba73e975eb")
-		(property "Reference" "R603"
+		(property "Reference" "R18303"
 			(at 205.486 200.914 0)
 			(effects
 				(font
@@ -4268,7 +4268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dccb04c-53aa-4942-80d8-9e4c80dd46d7")
-		(property "Reference" "C601"
+		(property "Reference" "C18301"
 			(at 176.53 232.4099 90)
 			(effects
 				(font
@@ -4434,7 +4434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f6f4be8-f6a1-4bf3-bbac-72829a10a782")
-		(property "Reference" "#PWR0601"
+		(property "Reference" "#PWR018301"
 			(at 176.53 228.6 0)
 			(effects
 				(font
@@ -4517,7 +4517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8557f61b-a70c-4057-8004-0a177ef6b00a")
-		(property "Reference" "C602"
+		(property "Reference" "C18302"
 			(at 205.74 232.4099 90)
 			(effects
 				(font
@@ -4682,7 +4682,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af7b4104-4eb4-4e41-8b33-dbfed81168ac")
-		(property "Reference" "R601"
+		(property "Reference" "R18301"
 			(at 205.486 176.784 0)
 			(effects
 				(font
@@ -4843,7 +4843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0c3e1ed-5a20-469c-8f95-be00114b62a3")
-		(property "Reference" "#PWR0602"
+		(property "Reference" "#PWR018302"
 			(at 229.87 255.27 0)
 			(effects
 				(font
@@ -4925,7 +4925,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3c9696e-d15b-4d68-806d-ef282f761902")
-		(property "Reference" "#PWR0603"
+		(property "Reference" "#PWR018303"
 			(at 381 125.73 0)
 			(effects
 				(font

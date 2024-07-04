@@ -1557,6 +1557,14 @@
 		(color 0 0 0 0)
 		(uuid "f63e3492-9e13-491f-a521-99d89b0f4f55")
 	)
+	(no_connect
+		(at 275.59 215.9)
+		(uuid "53e9462b-a231-4798-a90f-ead255ad5433")
+	)
+	(no_connect
+		(at 275.59 238.76)
+		(uuid "59061946-d7d6-4594-9dce-99fc5899f9e4")
+	)
 	(polyline
 		(pts
 			(xy 382.27 138.43) (xy 379.73 139.7)
@@ -3550,7 +3558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08ae6e02-969f-41ba-a0af-02060fe90476")
-		(property "Reference" "#PWR0701"
+		(property "Reference" "#PWR024701"
 			(at 180.34 229.87 0)
 			(effects
 				(font
@@ -3620,7 +3628,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36513a36-7080-4cce-af2b-75f799d4bfa3")
-		(property "Reference" "R704"
+		(property "Reference" "R24704"
 			(at 209.296 219.964 0)
 			(effects
 				(font
@@ -3769,7 +3777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3924a4a1-57f1-4583-986b-dc1c4430fc2a")
-		(property "Reference" "C701"
+		(property "Reference" "C24701"
 			(at 180.34 233.6799 90)
 			(effects
 				(font
@@ -3992,7 +4000,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8c250f94-7c9b-4efe-97eb-4b13f49c30e6")
-		(property "Reference" "R703"
+		(property "Reference" "R24703"
 			(at 209.296 202.184 0)
 			(effects
 				(font
@@ -4140,7 +4148,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ea9c60f-670c-4e06-a0fa-463d53d0d267")
-		(property "Reference" "R702"
+		(property "Reference" "R24702"
 			(at 209.296 190.754 0)
 			(effects
 				(font
@@ -4289,7 +4297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb37f925-638c-4469-be82-425522389b82")
-		(property "Reference" "#PWR0702"
+		(property "Reference" "#PWR024702"
 			(at 233.68 256.54 0)
 			(effects
 				(font
@@ -4359,7 +4367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc6a28d0-7aa6-4b90-b3a4-7d599c0e42aa")
-		(property "Reference" "C702"
+		(property "Reference" "C24702"
 			(at 209.55 233.6799 90)
 			(effects
 				(font
@@ -4513,7 +4521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd3f15f7-ddd2-49f9-86f6-556eeed7991d")
-		(property "Reference" "U701"
+		(property "Reference" "U24701"
 			(at 257.81 182.88 0)
 			(effects
 				(font
@@ -4730,7 +4738,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de99cb43-a183-46ed-b15f-4172709cdd30")
-		(property "Reference" "R701"
+		(property "Reference" "R24701"
 			(at 209.296 178.054 0)
 			(effects
 				(font

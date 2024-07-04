@@ -686,7 +686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51874a43-6075-4e71-815c-753c7ee0b709")
-		(property "Reference" "D5002"
+		(property "Reference" "D23202"
 			(at 246.38 179.6414 90)
 			(effects
 				(font
@@ -944,7 +944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6433d056-d54f-4a8f-9594-25906044d61d")
-		(property "Reference" "D5001"
+		(property "Reference" "D23201"
 			(at 246.38 154.2414 90)
 			(effects
 				(font
@@ -1202,7 +1202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ac4cd12-a6e3-4edd-afac-240175dab0f6")
-		(property "Reference" "D5004"
+		(property "Reference" "D23204"
 			(at 271.78 179.6414 90)
 			(effects
 				(font
@@ -1460,7 +1460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ae59b27-d969-4ddd-9085-04fc878dc63e")
-		(property "Reference" "R5001"
+		(property "Reference" "R23201"
 			(at 256.54 217.1699 90)
 			(effects
 				(font
@@ -1718,7 +1718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c522b52a-252f-4d9b-86cd-67cda3c3383a")
-		(property "Reference" "D5003"
+		(property "Reference" "D23203"
 			(at 271.78 154.2414 90)
 			(effects
 				(font
