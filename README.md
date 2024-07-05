@@ -27,16 +27,27 @@ __IOT, Automation__
 
 ## Technology
 
-### Equilibrium Controller
+### Score keeper Controller
 |Specification|PCB Top View|PCB Bottom View|
 |:---|:---:|:---:|
-|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> STM32U575 </td></tr> <tr><td>__Connection :__</td> <td> SPI, I2C, UART, QSPI, PWM </td></tr> <tr><td>__PCB Layers :__</td> <td> 4Layers (Controlled Impedance) </td></tr> <tr><td>__Board Dimensions :__ </td> <td> VALUE </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> FreeRTOS </td></tr> <tr><td>__IDE :__</td> <td> STM32CubeIDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> PIC16F15223 </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 4Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 100x100 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> MPLAB X IDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+
+### Time keeper Controller
+|Specification|PCB Top View|PCB Bottom View|
+|:---|:---:|:---:|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> ATmega328 </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 4Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 100x100 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> MPLAB X IDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+
+### Main Controller
+|Specification|PCB Top View|PCB Bottom View|
+|:---|:---:|:---:|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> RPi zero </td></tr> <tr><td>__Connection :__</td> <td> Wifi, UART (RS485), I2S </td></tr> <tr><td>__PCB Layers :__</td> <td> multi-layer </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 65x30 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Application__</td></tr><tr><td>__Programming Language :__</td> <td> CPP </td></tr> <tr><td>__OS :__</td> <td> Rpi OS </td></tr> <tr><td>__IDE :__</td> <td> Qt6 </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+
 
 ### Application
 
-- **IDE:** Qt6
-- **Operating System:** Linux/Windows
-- **Device:** 
+- **IDE:** n/A
+- **Operating System:** n/A
+- **Device:** n/A
 
 ### Final Device
 
