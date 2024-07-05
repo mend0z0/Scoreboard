@@ -51,5 +51,5 @@ Not ready yet for demo...
 - [@Siavash Taher Parvar](https://www.linkedin.com/in/mend0z0)
 
 
-![Logo](https://github.com/mend0z0/Scoreboard/blob/main/Logo.png)
+![Logo](https://github.com/mend0z0/Scoreboard/blob/main/LOGO.png)
 
