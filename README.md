@@ -9,7 +9,7 @@ Working on the hardware...
 
 # Project
 
-Description...
+This project is going to be a core project for different types of scoreboard devices with variety of sizes and games.
 
 ## Category
 
