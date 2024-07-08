@@ -1373,6 +1373,17 @@
 		)
 		(uuid "faa1f3fe-2ae3-48b6-9fc1-cc903c87b1a7")
 	)
+	(label "IN"
+		(at 243.84 177.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "917356fd-f703-4391-86c0-047feedbdcae")
+	)
 	(symbol
 		(lib_id "_SCHLIB_Mini-Scoreboard:CONN_HEADER_3POS_1ROW_VERT_2.54mm")
 		(at 251.46 167.64 90)
