@@ -1,0 +1,75 @@
+PCB statistics report
+=====================
+- Date: 7/10/2024 2:57:26 PM
+- Project: _HW_Mini-Scoreboard
+- Board name: _HW_Mini-Scoreboard
+
+Board
+-----
+- Width: 3900.00 mils
+- Height: 3900.00 mils
+- Area: 15176701.27 mils²
+
+Pads
+----
+- Through hole: 171
+- SMD: 1571
+- Connector: 8
+- NPTH: 0
+
+Vias
+----
+- Through vias: 408
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          1 |         5 |     6 |
+|SMD:          |        314 |       294 |   608 |
+|Unspecified:  |          5 |         0 |     5 |
+|Total:        |        320 |       299 |   619 |
+
+Drill holes
+-----------
+
+| Count | Shape |      X Size |      Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-------------|-------------|--------|---------|-------------|------------|
+|   408 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   108 | Round |  10.00 mils |  10.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    56 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 137.80 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 118.11 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 118.11 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|   408 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   108 | Round |  10.00 mils |  10.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    56 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 137.80 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 118.11 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 118.11 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|   408 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   108 | Round |  10.00 mils |  10.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    56 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 137.80 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 118.11 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 118.11 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|   408 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   108 | Round |  10.00 mils |  10.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    56 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 137.80 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 118.11 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 118.11 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|   408 | Round |  11.81 mils |  11.81 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|   108 | Round |  10.00 mils |  10.00 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|    56 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 125.98 mils | 125.98 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 137.80 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot |  39.37 mils | 118.11 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 |  Slot | 118.11 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
