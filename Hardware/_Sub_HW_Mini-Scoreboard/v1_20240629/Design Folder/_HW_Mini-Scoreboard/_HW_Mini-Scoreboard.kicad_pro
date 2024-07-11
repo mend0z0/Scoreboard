@@ -479,10 +479,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Output files/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Output files/STEP/_STEP_Mini-Scoreboard_v1.0.step",
       "svg": "",
       "vrml": ""
     },
