@@ -4,6 +4,21 @@
 	(generator_version "8.0")
 	(uuid "eb946515-a8d9-4093-a1a7-0cb95cf46e44")
 	(paper "C")
+	(title_block
+		(title "Mini-Scoreboard")
+		(date "2024-07-11")
+		(rev "v1.0")
+		(company "Mend0z0")
+		(comment 1 "v1.0")
+		(comment 2 "PRELIMINARY")
+		(comment 3 "Siavash Taher Parvar")
+		(comment 4 "_BOM_Mini-Scoreboard_v1.0.html")
+		(comment 5 "_PCB_Mini-Scoreboard_v1.0.kicad_pcb")
+		(comment 6 "_GBR_Mini-Scoreboard_v1.0.zip")
+		(comment 7 "_ASM_Mini-Scoreboard_v1.0.html")
+		(comment 8 "n/A")
+		(comment 9 "First Release")
+	)
 	(lib_symbols
 		(symbol "_SCHLIB_Mini-Scoreboard:CONN_RCPT_40POS_2ROW_VERT_2.54mm"
 			(exclude_from_sim no)

@@ -4,8 +4,23 @@
 	(generator_version "8.0")
 	(uuid "cb8cb36e-a327-42fa-851f-d602584e2c26")
 	(paper "C")
+	(title_block
+		(title "Mini-Scoreboard")
+		(date "2024-07-11")
+		(rev "v1.0")
+		(company "Mend0z0")
+		(comment 1 "v1.0")
+		(comment 2 "PRELIMINARY")
+		(comment 3 "Siavash Taher Parvar")
+		(comment 4 "_BOM_Mini-Scoreboard_v1.0.html")
+		(comment 5 "_PCB_Mini-Scoreboard_v1.0.kicad_pcb")
+		(comment 6 "_GBR_Mini-Scoreboard_v1.0.zip")
+		(comment 7 "_ASM_Mini-Scoreboard_v1.0.html")
+		(comment 8 "n/A")
+		(comment 9 "First Release")
+	)
 	(lib_symbols
-		(symbol "_SCHLIB_Mini-Scoreboard:CONN_HEADER_3POS_1ROW_VERT_2.54mm"
+		(symbol "_SCHLIB_Mini-Scoreboard:CONN_HEADER_3POS_1ROW_RA_2.54mm"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -18,7 +33,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "HDR_3X1_VERT_2.54"
+			(property "Value" "HDR_3X1_RA_2.54"
 				(at 2.54 6.35 0)
 				(effects
 					(font
@@ -27,7 +42,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 				(at 2.54 16.51 0)
 				(effects
 					(font
@@ -37,7 +52,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+			(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201281/ph1rb-xx-ua-data-sheet.pdf"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -47,7 +62,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Connector Header Through Hole 3 position 0.100\" (2.54mm)"
+			(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.100\" (2.54mm)"
 				(at 2.54 13.97 0)
 				(effects
 					(font
@@ -57,7 +72,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number (Manufacturer)" "PH1-03-UA"
+			(property "Part Number (Manufacturer)" "PH1RB-03-UA"
 				(at 2.54 21.59 0)
 				(effects
 					(font
@@ -77,7 +92,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number (Vendor)" "2057-PH1-03-UA-ND"
+			(property "Part Number (Vendor)" "2057-PH1RB-03-UA-ND"
 				(at 2.54 19.05 0)
 				(effects
 					(font
@@ -97,7 +112,7 @@
 					(hide yes)
 				)
 			)
-			(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-03-UA/9830289?s=N4IgTCBcDaIAoAkCMBaADAZhQVQIIgF0BfIA"
+			(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RB-03-UA/9830403"
 				(at 2.54 11.43 0)
 				(effects
 					(font
@@ -134,7 +149,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "Connector Header Through Hole 3 position 0.100\" (2.54mm)"
+			(property "ki_keywords" "Connector Header Through Hole, Right Angle 3 position 0.100\" (2.54mm)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -143,7 +158,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CONN_HEADER_3POS_1ROW_VERT_2.54mm_1_1"
+			(symbol "CONN_HEADER_3POS_1ROW_RA_2.54mm_1_1"
 				(rectangle
 					(start 0 0)
 					(end 5.08 -10.16)
@@ -155,7 +170,7 @@
 						(type background)
 					)
 				)
-				(text "HDR - 3POS\nVERT - 2.54mm"
+				(text "HDR - 3POS\nRA - 2.54mm"
 					(at 2.54 -5.08 900)
 					(effects
 						(font
@@ -1389,7 +1404,7 @@
 		(uuid "917356fd-f703-4391-86c0-047feedbdcae")
 	)
 	(symbol
-		(lib_id "_SCHLIB_Mini-Scoreboard:CONN_HEADER_3POS_1ROW_VERT_2.54mm")
+		(lib_id "_SCHLIB_Mini-Scoreboard:CONN_HEADER_3POS_1ROW_RA_2.54mm")
 		(at 251.46 167.64 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1397,8 +1412,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1a94d90a-2f51-4cc3-b234-2e3f319f1789")
-		(property "Reference" "J18102"
+		(uuid "156f9a1a-c29a-4591-a859-15cc16141cba")
+		(property "Reference" "J11801"
 			(at 262.89 160.0199 90)
 			(effects
 				(font
@@ -1407,7 +1422,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "HDR_3X1_VERT_2.54"
+		(property "Value" "HDR_3X1_RA_2.54"
 			(at 262.89 162.5599 90)
 			(effects
 				(font
@@ -1416,7 +1431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 234.95 165.1 0)
 			(effects
 				(font
@@ -1426,7 +1441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201281/ph1rb-xx-ua-data-sheet.pdf"
 			(at 242.57 165.1 0)
 			(effects
 				(font
@@ -1436,7 +1451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Header Through Hole 3 position 0.100\" (2.54mm)"
+		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.100\" (2.54mm)"
 			(at 237.49 165.1 0)
 			(effects
 				(font
@@ -1446,7 +1461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Manufacturer)" "PH1-03-UA"
+		(property "Part Number (Manufacturer)" "PH1RB-03-UA"
 			(at 229.87 165.1 0)
 			(effects
 				(font
@@ -1466,7 +1481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Vendor)" "2057-PH1-03-UA-ND"
+		(property "Part Number (Vendor)" "2057-PH1RB-03-UA-ND"
 			(at 232.41 165.1 0)
 			(effects
 				(font
@@ -1486,7 +1501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-03-UA/9830289?s=N4IgTCBcDaIAoAkCMBaADAZhQVQIIgF0BfIA"
+		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RB-03-UA/9830403"
 			(at 240.03 165.1 0)
 			(effects
 				(font
@@ -1524,18 +1539,18 @@
 			)
 		)
 		(pin "2"
-			(uuid "25c6f1a1-b737-4603-9dc0-07a87b5dcf26")
-		)
-		(pin "3"
-			(uuid "7a5896a4-8317-4d12-9c00-74500fe6902d")
+			(uuid "ad5bc62e-c7aa-46bd-9a9e-9c21deeaf672")
 		)
 		(pin "1"
-			(uuid "5cb095be-d6cb-4dad-aa05-00f73fe315a0")
+			(uuid "94764b82-9b7e-48de-b147-a15e37bcfbe8")
+		)
+		(pin "3"
+			(uuid "8a61907f-08ca-4285-b7f3-f46fab02946c")
 		)
 		(instances
 			(project ""
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/e8df286b-44e1-41ee-b656-80cc2de69c59"
-					(reference "J18102")
+					(reference "J11801")
 					(unit 1)
 				)
 			)

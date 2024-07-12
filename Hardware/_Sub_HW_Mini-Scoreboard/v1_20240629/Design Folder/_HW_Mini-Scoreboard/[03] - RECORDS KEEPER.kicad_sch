@@ -4,6 +4,21 @@
 	(generator_version "8.0")
 	(uuid "0fee975c-257e-46cf-9431-0b631272f7ef")
 	(paper "C")
+	(title_block
+		(title "Mini-Scoreboard")
+		(date "2024-07-11")
+		(rev "v1.0")
+		(company "Mend0z0")
+		(comment 1 "v1.0")
+		(comment 2 "PRELIMINARY")
+		(comment 3 "Siavash Taher Parvar")
+		(comment 4 "_BOM_Mini-Scoreboard_v1.0.html")
+		(comment 5 "_PCB_Mini-Scoreboard_v1.0.kicad_pcb")
+		(comment 6 "_GBR_Mini-Scoreboard_v1.0.zip")
+		(comment 7 "_ASM_Mini-Scoreboard_v1.0.html")
+		(comment 8 "n/A")
+		(comment 9 "First Release")
+	)
 	(lib_symbols
 		(symbol "_SCHLIB_Mini-Scoreboard:CAP_CER_100nF_16V_X7R_C0603"
 			(exclude_from_sim no)
@@ -411,7 +426,7 @@
 				)
 			)
 		)
-		(symbol "_SCHLIB_Mini-Scoreboard:CONN_HEADER_4POS_1ROW_VERT_2.54mm"
+		(symbol "_SCHLIB_Mini-Scoreboard:CONN_HEADER_4POS_1ROW_RA_2.54mm"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -424,7 +439,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "HDR_4X1_VERT_2.54"
+			(property "Value" "HDR_4X1_RA_2.54"
 				(at 2.54 6.35 0)
 				(effects
 					(font
@@ -433,7 +448,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 				(at 2.54 16.51 0)
 				(effects
 					(font
@@ -443,7 +458,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+			(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf"
 				(at 2.54 8.89 0)
 				(effects
 					(font
@@ -453,7 +468,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Connector Header Through Hole 4 position 0.100\" (2.54mm)"
+			(property "Description" "Connector Header Through Hole, Right Angle 4 position 0.100\" (2.54mm)"
 				(at 2.54 13.97 0)
 				(effects
 					(font
@@ -463,7 +478,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number (Manufacturer)" "PH1-04-UA"
+			(property "Part Number (Manufacturer)" "PH1RA-04-UA"
 				(at 2.54 21.59 0)
 				(effects
 					(font
@@ -483,7 +498,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number (Vendor)" "2057-PH1-04-UA-ND"
+			(property "Part Number (Vendor)" "2057-PH1RA-04-UA-ND"
 				(at 2.54 19.05 0)
 				(effects
 					(font
@@ -503,7 +518,7 @@
 					(hide yes)
 				)
 			)
-			(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-04-UA/9829296"
+			(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RA-04-UA/9830430"
 				(at 2.54 11.43 0)
 				(effects
 					(font
@@ -540,7 +555,7 @@
 					(justify left)
 				)
 			)
-			(property "ki_keywords" "PH1-04-UA"
+			(property "ki_keywords" "Connector Header Through Hole, Right Angle 4 position 0.100\" (2.54mm)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -549,7 +564,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CONN_HEADER_4POS_1ROW_VERT_2.54mm_1_1"
+			(symbol "CONN_HEADER_4POS_1ROW_RA_2.54mm_1_1"
 				(rectangle
 					(start 0 0)
 					(end 5.08 -12.7)
@@ -561,7 +576,7 @@
 						(type background)
 					)
 				)
-				(text "HDR - 4POS\nVERT - 2.54mm"
+				(text "HDR - 4POS\nRA - 2.54mm"
 					(at 2.54 -6.35 900)
 					(effects
 						(font
@@ -4313,166 +4328,6 @@
 		)
 	)
 	(symbol
-		(lib_id "_SCHLIB_Mini-Scoreboard:CONN_HEADER_4POS_1ROW_VERT_2.54mm")
-		(at 210.82 259.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87ccd02a-2bfc-4243-8a1d-7b20357828c9")
-		(property "Reference" "J18201"
-			(at 217.17 260.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "HDR_4X1_VERT_2.54"
-			(at 217.17 262.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 213.36 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
-			(at 213.36 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "Connector Header Through Hole 4 position 0.100\" (2.54mm)"
-			(at 213.36 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number (Manufacturer)" "PH1-04-UA"
-			(at 213.36 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Adam Tech"
-			(at 213.36 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Part Number (Vendor)" "2057-PH1-04-UA-ND"
-			(at 213.36 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Vendor" "Digikey"
-			(at 213.36 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-04-UA/9829296"
-			(at 213.36 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Package" "Through Hole (2.54mm)"
-			(at 217.17 265.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "SCH CHECK" "SCH (CHECKED)"
-			(at 217.17 267.9699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "PCB CHECK" "PCB (N/A)"
-			(at 217.17 270.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "3"
-			(uuid "3cb6e496-0445-4063-8194-740270335eea")
-		)
-		(pin "1"
-			(uuid "8735b9ba-d54f-4895-8e70-79ae7566e07a")
-		)
-		(pin "4"
-			(uuid "b7e7622d-2d62-4a82-9aa9-c1a49d15218e")
-		)
-		(pin "2"
-			(uuid "ccb6bb4f-e80c-4ec6-ac73-5860167fa2fc")
-		)
-		(instances
-			(project "_HW_Mini-Scoreboard"
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e"
-					(reference "J18201")
-					(unit 1)
-				)
-				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4"
-					(reference "J301")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 398.78 229.87 90)
 		(unit 1)
@@ -5868,6 +5723,166 @@
 				)
 				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4"
 					(reference "#PWR0314")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_Mini-Scoreboard:CONN_HEADER_4POS_1ROW_RA_2.54mm")
+		(at 210.82 259.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "edaa031c-3c1b-49ad-9865-1e41284c17f7")
+		(property "Reference" "J301"
+			(at 217.17 260.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "HDR_4X1_RA_2.54"
+			(at 217.17 262.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
+			(at 213.36 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf"
+			(at 213.36 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Connector Header Through Hole, Right Angle 4 position 0.100\" (2.54mm)"
+			(at 213.36 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Manufacturer)" "PH1RA-04-UA"
+			(at 213.36 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Adam Tech"
+			(at 213.36 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number (Vendor)" "2057-PH1RA-04-UA-ND"
+			(at 213.36 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "Digikey"
+			(at 213.36 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RA-04-UA/9830430"
+			(at 213.36 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "Through Hole (2.54mm)"
+			(at 217.17 265.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "SCH CHECK" "SCH (CHECKED)"
+			(at 217.17 267.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECK" "PCB (N/A)"
+			(at 217.17 270.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3"
+			(uuid "67d1aee3-30fa-4f96-a040-adef50f156fb")
+		)
+		(pin "1"
+			(uuid "e24cb6fb-4c59-4b82-8a03-15c35e1b961d")
+		)
+		(pin "4"
+			(uuid "36bd5a1c-fd8e-4ddf-875d-d640b689b301")
+		)
+		(pin "2"
+			(uuid "67097fe5-dff1-41cb-8a55-c6e381c99b3f")
+		)
+		(instances
+			(project ""
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/29df82d1-e7a0-42f2-aff8-00da25d7625e"
+					(reference "J11901")
+					(unit 1)
+				)
+				(path "/d8b9b213-6982-4461-908c-72226e9b7d64/c9b0d1bc-404d-4e82-8a2e-ab8db09511da/30e346ea-1619-4141-b4a7-269108032fc4"
+					(reference "J301")
 					(unit 1)
 				)
 			)
