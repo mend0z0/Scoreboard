@@ -1294,7 +1294,7 @@
 			)
 		)
 	)
-	(symbol "CONN_HEADER_3POS_1ROW_VERT_2.54mm"
+	(symbol "CONN_HEADER_3POS_1ROW_RA_2.54mm"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1307,7 +1307,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HDR_3X1_VERT_2.54"
+		(property "Value" "HDR_3X1_RA_2.54"
 			(at 2.54 6.35 0)
 			(effects
 				(font
@@ -1316,7 +1316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 2.54 16.51 0)
 			(effects
 				(font
@@ -1326,7 +1326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201281/ph1rb-xx-ua-data-sheet.pdf"
 			(at 2.54 8.89 0)
 			(effects
 				(font
@@ -1336,7 +1336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Header Through Hole 3 position 0.100\" (2.54mm)"
+		(property "Description" "Connector Header Through Hole, Right Angle 3 position 0.100\" (2.54mm)"
 			(at 2.54 13.97 0)
 			(effects
 				(font
@@ -1346,7 +1346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Manufacturer)" "PH1-03-UA"
+		(property "Part Number (Manufacturer)" "PH1RB-03-UA"
 			(at 2.54 21.59 0)
 			(effects
 				(font
@@ -1366,7 +1366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Vendor)" "2057-PH1-03-UA-ND"
+		(property "Part Number (Vendor)" "2057-PH1RB-03-UA-ND"
 			(at 2.54 19.05 0)
 			(effects
 				(font
@@ -1386,7 +1386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-03-UA/9830289?s=N4IgTCBcDaIAoAkCMBaADAZhQVQIIgF0BfIA"
+		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RB-03-UA/9830403"
 			(at 2.54 11.43 0)
 			(effects
 				(font
@@ -1423,7 +1423,7 @@
 				(justify left)
 			)
 		)
-		(property "ki_keywords" "Connector Header Through Hole 3 position 0.100\" (2.54mm)"
+		(property "ki_keywords" "Connector Header Through Hole, Right Angle 3 position 0.100\" (2.54mm)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1432,7 +1432,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CONN_HEADER_3POS_1ROW_VERT_2.54mm_1_1"
+		(symbol "CONN_HEADER_3POS_1ROW_RA_2.54mm_1_1"
 			(rectangle
 				(start 0 0)
 				(end 5.08 -10.16)
@@ -1444,7 +1444,7 @@
 					(type background)
 				)
 			)
-			(text "HDR - 3POS\nVERT - 2.54mm"
+			(text "HDR - 3POS\nRA - 2.54mm"
 				(at 2.54 -5.08 900)
 				(effects
 					(font
@@ -1508,7 +1508,7 @@
 			)
 		)
 	)
-	(symbol "CONN_HEADER_4POS_1ROW_VERT_2.54mm"
+	(symbol "CONN_HEADER_4POS_1ROW_RA_2.54mm"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1521,7 +1521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HDR_4X1_VERT_2.54"
+		(property "Value" "HDR_4X1_RA_2.54"
 			(at 2.54 6.35 0)
 			(effects
 				(font
@@ -1530,7 +1530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 2.54 16.51 0)
 			(effects
 				(font
@@ -1540,7 +1540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201459/ph1ra-xx-ua-data-sheet.pdf"
 			(at 2.54 8.89 0)
 			(effects
 				(font
@@ -1550,7 +1550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Header Through Hole 4 position 0.100\" (2.54mm)"
+		(property "Description" "Connector Header Through Hole, Right Angle 4 position 0.100\" (2.54mm)"
 			(at 2.54 13.97 0)
 			(effects
 				(font
@@ -1560,7 +1560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Manufacturer)" "PH1-04-UA"
+		(property "Part Number (Manufacturer)" "PH1RA-04-UA"
 			(at 2.54 21.59 0)
 			(effects
 				(font
@@ -1580,7 +1580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Vendor)" "2057-PH1-04-UA-ND"
+		(property "Part Number (Vendor)" "2057-PH1RA-04-UA-ND"
 			(at 2.54 19.05 0)
 			(effects
 				(font
@@ -1600,7 +1600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-04-UA/9829296"
+		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RA-04-UA/9830430"
 			(at 2.54 11.43 0)
 			(effects
 				(font
@@ -1637,7 +1637,7 @@
 				(justify left)
 			)
 		)
-		(property "ki_keywords" "PH1-04-UA"
+		(property "ki_keywords" "Connector Header Through Hole, Right Angle 4 position 0.100\" (2.54mm)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1646,7 +1646,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CONN_HEADER_4POS_1ROW_VERT_2.54mm_1_1"
+		(symbol "CONN_HEADER_4POS_1ROW_RA_2.54mm_1_1"
 			(rectangle
 				(start 0 0)
 				(end 5.08 -12.7)
@@ -1658,7 +1658,7 @@
 					(type background)
 				)
 			)
-			(text "HDR - 4POS\nVERT - 2.54mm"
+			(text "HDR - 4POS\nRA - 2.54mm"
 				(at 2.54 -6.35 900)
 				(effects
 					(font
@@ -1740,7 +1740,7 @@
 			)
 		)
 	)
-	(symbol "CONN_HEADER_5POS_1ROW_VERT_2.54mm"
+	(symbol "CONN_HEADER_5POS_1ROW_RA_2.54mm"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1753,7 +1753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HDR_5X1_VERT_2.54"
+		(property "Value" "HDR_5X1_RA_2.54"
 			(at 2.54 6.35 0)
 			(effects
 				(font
@@ -1762,7 +1762,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
 			(at 2.54 16.51 0)
 			(effects
 				(font
@@ -1772,7 +1772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201605/ph1-xx-ua-data-sheet.pdf"
+		(property "Datasheet" "https://app.adam-tech.com/products/download/data_sheet/201281/ph1rb-xx-ua-data-sheet.pdf"
 			(at 2.54 8.89 0)
 			(effects
 				(font
@@ -1782,7 +1782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Header Through Hole 5 position 0.100\" (2.54mm)"
+		(property "Description" "Connector Header Through Hole, Right Angle 5 position 0.100\" (2.54mm)"
 			(at 2.54 13.97 0)
 			(effects
 				(font
@@ -1792,7 +1792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Manufacturer)" "PH1-05-UA"
+		(property "Part Number (Manufacturer)" "PH1RB-05-UA"
 			(at 2.54 21.59 0)
 			(effects
 				(font
@@ -1812,7 +1812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number (Vendor)" "2057-PH1-05-UA-ND"
+		(property "Part Number (Vendor)" "2057-PH1RB-05-UA-ND"
 			(at 2.54 19.05 0)
 			(effects
 				(font
@@ -1832,7 +1832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1-05-UA/9830343?s=N4IgTCBcDaIAoAkCMBaADAVhQVQIIgF0BfIA"
+		(property "Link" "https://www.digikey.ca/en/products/detail/adam-tech/PH1RB-05-UA/9831540"
 			(at 2.54 11.43 0)
 			(effects
 				(font
@@ -1869,7 +1869,7 @@
 				(justify left)
 			)
 		)
-		(property "ki_keywords" "PH1-05-UA"
+		(property "ki_keywords" "Connector Header Through Hole, Right Angle 5 position 0.100\" (2.54mm)"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1878,7 +1878,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CONN_HEADER_5POS_1ROW_VERT_2.54mm_1_1"
+		(symbol "CONN_HEADER_5POS_1ROW_RA_2.54mm_1_1"
 			(rectangle
 				(start 0 0)
 				(end 5.08 -15.24)
@@ -1890,7 +1890,7 @@
 					(type background)
 				)
 			)
-			(text "HDR - 5POS\nVERT - 2.54mm"
+			(text "HDR - 5POS\nRA - 2.54mm"
 				(at 2.54 -7.366 900)
 				(effects
 					(font
