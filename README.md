@@ -23,7 +23,7 @@ __IOT, Automation__
 
 ## Block Diagram
 
-![SystemDesign](https://github.com/mend0z0/Scoreboard/blob/main/Document/Block%20Diagrams/_FBD_SYS_Scoreboard_v1.0.svg)
+![SystemDesign](https://github.com/mend0z0/Scoreboard/blob/main/Document/Block%20Diagrams/_FBD_SYS_Mini-Scoreboard_v1.0.svg)
 
 ## Technology
 
