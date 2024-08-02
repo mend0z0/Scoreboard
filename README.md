@@ -45,7 +45,7 @@ __IOT, Automation__
 ### Main Controller
 |Specification|PCB Top View|PCB Bottom View|
 |:---|:---:|:---:|
-|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> RPi zero </td></tr> <tr><td>__Connection :__</td> <td> Wifi, UART (RS485), I2S </td></tr> <tr><td>__PCB Layers :__</td> <td> multi-layer </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 65x30 mm </td></tr> <tr><td>__CAD :__</td> <td> n/A </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Application__</td></tr><tr><td>__Programming Language :__</td> <td> CPP </td></tr> <tr><td>__OS :__</td> <td> Rpi OS </td></tr> <tr><td>__IDE :__</td> <td> Qt6 </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> RPi zero </td></tr> <tr><td>__Connection :__</td> <td> Wifi, UART (RS485), I2S </td></tr> <tr><td>__PCB Layers :__</td> <td> multi-layer </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 65x30 mm </td></tr> <tr><td>__CAD :__</td> <td> n/A </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Application__</td></tr><tr><td>__Programming Language :__</td> <td> Python </td></tr> <tr><td>__OS :__</td> <td> Rpi OS </td></tr> <tr><td>__IDE :__</td> <td> VSC </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
 
 
 ### Application
