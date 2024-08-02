@@ -3,7 +3,7 @@
 
 
 ``
-Working on the hardware...
+Working on the firmware...
 ``
 
 
@@ -27,15 +27,20 @@ __IOT, Automation__
 
 ## Technology
 
+### LED Driver
+|Specification|PCB Top View|PCB Bottom View|
+|:---|:---:|:---:|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__Driver :__</td> <td> TCA9535RTWR </td></tr> <tr><td>__Connection :__</td> <td> I2C </td></tr> <tr><td>__PCB Layers :__</td> <td> 1Layer </td></tr> <tr><td>__Board Dimensions :__ </td> <td> YxY mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+
 ### Score keeper Controller
 |Specification|PCB Top View|PCB Bottom View|
 |:---|:---:|:---:|
-|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> PIC16F15223 </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 4Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 100x100 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> MPLAB X IDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> PIC16F15223 </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 2Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> YxY mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> MPLAB X IDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
 
 ### Time keeper Controller
 |Specification|PCB Top View|PCB Bottom View|
 |:---|:---:|:---:|
-|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> ATmega328 </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 4Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 100x100 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> MPLAB X IDE </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
+|<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__MCU :__</td> <td> ATmega328PB </td></tr> <tr><td>__Connection :__</td> <td> I2C, UART (RS485) </td></tr> <tr><td>__PCB Layers :__</td> <td> 2Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> YxY mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr></tbody><tbody><tr><td colspan="2" align="center">__Firmware__</td></tr><tr><td>__Programming Language :__</td> <td> CLan </td></tr> <tr><td>__OS :__</td> <td> Super-loop </td></tr> <tr><td>__IDE :__</td> <td> Microchip Studio </td></tr> </tbody></table>|![Latest Version_Top](https://github.com/mend0z0)|![Latest Version_Bottom](https://github.com/mend0z0)|
 
 ### Main Controller
 |Specification|PCB Top View|PCB Bottom View|
